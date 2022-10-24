@@ -1,4 +1,6 @@
-<h2 align="center"> Django with Postgres Nginx and Gunicorn </h2>
+<h2 align="center"> Codigoascii.com </h2>
+
+[CodigoAscii](https://elcodigoascii.com.ar/codigos-ascii/letra-a-mayuscula-codigo-ascii-65.html)
 
 <p align="center">
   
@@ -34,23 +36,31 @@
   </tr>
 </table>
  
-Deploy is back! - [Documentation Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
- 
-## Tabla de contenidos
+
+<!-- ## Tabla de contenidos
 
 | Numeration   | Check  |Topic          | Information     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Installing Nginx](#Installing-Nginx)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Installing Nginx](#Installing-Nginx)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  -->
 
-## Installing Nginx
+## Table
 
-Official Debian/Ubuntu packages - [Install](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/ascii2.png" />
+    </td>
+  </tr>
+</table>
 
-```bash
-sudo apt update
-sudo apt install nginx
-nginx -v
-```
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/ascii1.png" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,9 +74,8 @@ nginx -v
 ## Paypal
 ☕ Make a Donation [Paypal](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
----
 
- <table align="center">
+ <!-- <table align="center">
     <tr>
       <td colspan="3">A</td>
         <td>B</td>
@@ -80,4 +89,4 @@ nginx -v
       <td colspan="3">F</td>
         <td>G</td>
     </tr>
-</table>
+</table> -->
