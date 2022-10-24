@@ -11,7 +11,7 @@
   <a href="https://github.com/BrianMarquez3/ASCII/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/ASCII.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/ASCII?color=gren&label=Version&logo=nginx">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/ASCII?color=gren&label=Version&logo=ascii">
   </a>
   
   </a>
